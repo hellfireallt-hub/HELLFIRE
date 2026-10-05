@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Spread Love 🧡", // required by Discord API, not shown in the client
-        state: "Hellfire <:HELLFIRE_LOGO_2:1545138136726900807>",     // this is what people actually see
+        state: "Hellfire ",     // this is what people actually see
         type: 3,               // Watching
       },
     ],
