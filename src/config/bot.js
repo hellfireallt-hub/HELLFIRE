@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Spread Love 🧡",     // this is what people actually see
+        name: "Spread Love 🧡", // required by Discord API, not shown in the client
+        state: "Hellfire <:HELLFIRE_LOGO_2:1545138136726900807>",     // this is what people actually see
         type: 3,               // Watching
       },
     ],
